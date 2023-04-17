@@ -9,8 +9,10 @@ Seeking for Cyber Security or Penetration Testing job
 * ✉️  You can contact me at [waradorn.sir@gmail.com](mailto:waradorn.sir@gmail.com)
 * 🧠  I'm learning on CEH and OSCP
 
-### Skills
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
+
+### Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
