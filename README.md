@@ -5,7 +5,7 @@ Seeking for Cyber Security or Penetration Testing job
 -----------------------------------------------------
 
 * 🌍  I'm based in Bangkok
-* 🖥️  See my portfolio at [MyCV](http://drive.google.com/file/d/1PCNLER1jmN-RgayqQAKflRtNGG3vD8Mi/view?usp=sharing)
+* 🖥️  See my portfolio at [My CV](https://drive.google.com/file/d/1xAlgp0FJriVfL8sdZlYBsaAPAu20EFq2/view?usp=share_link)
 * ✉️  You can contact me at [waradorn.sir@gmail.com](mailto:waradorn.sir@gmail.com)
 * 🧠  I'm learning on CEH and OSCP
 
