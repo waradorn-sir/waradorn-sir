@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Copter Waradorn
 =======================================================================================================================================
 
-Seeking for Cyber Security or Penetration Testing job
+Seeking for Penetration Testing Position
 -----------------------------------------------------
 
 * 🌍  I'm based in Bangkok
