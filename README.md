@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Copter Waradorn
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waradorn Siripunt (Don)
 =======================================================================================================================================
 
-Seeking for Penetration Testing Position
+Seeking for Penetration Testing Position or Red Team Intern
 -----------------------------------------------------
 
-* 🌍  I'm based in Bangkok
-* 🖥️  See my portfolio at [My CV](https://drive.google.com/file/d/17_hDuhbj8Ya1bPYP47yV0KUl2OBXcN4T/view?usp=sharing)
+* 🌍  I'm based in Pennsylvania, but willing to relocate (Eligible for CPT (Summer 2026), STEM OPT (2027 - 2029))
+* 🖥️  See my portfolio at [My Resume](https://drive.google.com/file/d/1B2USvggQB1zOJNt7MUBr9-lYUeky_9EK/view?usp=sharing)
 * ✉️  You can contact me at [waradorn.sir@gmail.com](mailto:waradorn.sir@gmail.com)
-* 🧠  I'm learning on CEH and OSCP
+* 🧠  I'm learning on OSCP
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
