@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waradorn Siripunt (Don)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waradorn Siripunt (Don), also known as Seiichi Takao in the cybersec community. 
 =======================================================================================================================================
 
-Seeking for Penetration Testing Position or Red Team Intern
+Seeking for Penetration Testing Position
 -----------------------------------------------------
 
 * 🌍  I'm based in Pennsylvania, but willing to relocate (Eligible for CPT (Summer 2026), STEM OPT (2027 - 2029))
