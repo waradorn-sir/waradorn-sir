@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waradorn Siripunt (Don), also known as Seiichi Takao in the cybersec community. 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Waradorn Siripunt (Don) - aka Seiichi Takao in the cybersecurity community. 
 =======================================================================================================================================
 
 Seeking Penetration Testing Opportunities
@@ -60,4 +60,6 @@ M.S. Cybersecurity @ Penn State | Former Penetration Tester
 ![ELK](https://img.shields.io/badge/ELK-FEC514?style=flat-square)
 
 
-
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-waradornsir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waradornsir/)
+[![X](https://img.shields.io/badge/X-@takao__seiichi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/takao_seiichi)
