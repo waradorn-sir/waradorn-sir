@@ -34,8 +34,7 @@ M.S. Cybersecurity @ Penn State | Former Penetration Tester
 > Click a badge to view my public profile and hands-on progress.
 
 [![Hack The Box](https://img.shields.io/badge/HTB%20Weekly%20Streak-4%20Weeks-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/01a06928-4a25-71a3-aa2f-26db85ade809?utm_medium=copy_url)
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe%20Daily%20Streak-11%20Days-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/S3iichi.Taka0)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe%20Daily%20Streak-Click%20For%20Streak-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/S3iichi.Taka0)
 
 ## Security Skills & Tools
 
