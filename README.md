@@ -1,36 +1,63 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waradorn Siripunt (Don), also known as Seiichi Takao in the cybersec community. 
 =======================================================================================================================================
 
-Seeking for Penetration Testing Position
+Seeking Penetration Testing Opportunities
+
+M.S. Cybersecurity @ Penn State | Former Penetration Tester
 -----------------------------------------------------
 
-* 🌍  I'm based in Pennsylvania, but willing to relocate (Eligible for CPT (Summer 2026), STEM OPT (2027 - 2029))
-* 🖥️  See my portfolio at [My Resume](https://drive.google.com/file/d/1B2USvggQB1zOJNt7MUBr9-lYUeky_9EK/view?usp=sharing)
+* 🌍  I'm based in Pennsylvania, but willing to relocate (Eligible for OPT (2027), STEM OPT (2028 - 2029))
+* 🖥️  See my portfolio at [My Resume](https://drive.google.com/file/d/1ckYxUkfxIiSOMbFMhf0tvB3D406i6E_b/view?usp=sharing)
 * ✉️  You can contact me at [waradorn.sir@gmail.com](mailto:waradorn.sir@gmail.com)
-* 🧠  I'm learning on OSCP
+* 🧠  Currently preparing for the OSCP.
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
+## 🛠️ Skills
 
-### Skills
+## Programming & Scripting
+[![Programming](https://skillicons.dev/icons?i=python,js,c,bash)](https://skillicons.dev)
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-</p>
+## Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=linux,kali,docker,git,github,vscode)](https://skillicons.dev)
 
-<h3 align="left">Tools:</h3>
-<p align="left"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> </p>
+## CyberSec Certifications
+> Click a certification badge to view the credential.
+
+[![eCPPTv3](https://img.shields.io/badge/eCPPTv3-INE%20Security-red?style=for-the-badge)](https://drive.google.com/file/d/1SCAxb31EEewJCMaNS8AwEcHEEDyMa0wm/view?usp=sharing)
+
+[![CRTA](https://img.shields.io/badge/CRTA-CyberWarfare%20Labs-purple?style=for-the-badge)](https://drive.google.com/file/d/15Jg0BEft9a9zDsxTboIOThdEGTXHszeg/view?usp=sharing)
+
+[![CEH](https://img.shields.io/badge/CEH-EC--Council-darkred?style=for-the-badge)](https://drive.google.com/file/d/18EEy6e_4ehVkvwVv4G2STuSsBn7S7kDy/view?usp=sharing)
+
+## 🔥 Activity
+> Click a badge to view my public profile and hands-on progress.
+
+[![Hack The Box](https://img.shields.io/badge/HTB%20Weekly%20Streak-4%20Weeks-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/01a06928-4a25-71a3-aa2f-26db85ade809?utm_medium=copy_url)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe%20Daily%20Streak-11%20Days-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/S3iichi.Taka0)
+
+## Security Skills & Tools
+
+### Web Pentesting
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square)
+![sqlmap](https://img.shields.io/badge/sqlmap-black?style=flat-square)
+
+### Mobile Pentesting
+![Frida](https://img.shields.io/badge/Frida-black?style=flat-square)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=flat-square)
+![JADX](https://img.shields.io/badge/JADX-black?style=flat-square)
+
+### Network Pentesting
+![Nmap](https://img.shields.io/badge/Nmap-0086C9?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
+
+#### SIEM & Log Analysis
+![Splunk](https://img.shields.io/badge/Splunk-black?style=flat-square)
+![ELK](https://img.shields.io/badge/ELK-FEC514?style=flat-square)
 
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/waradorn-sir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/waradornsir/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@copterwaradorn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/waradorn-sir"><img src="https://github-readme-stats.vercel.app/api?username=waradorn-sir&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="waradorn-sir's GitHub stats" /></a>
